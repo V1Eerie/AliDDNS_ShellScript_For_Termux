@@ -15,8 +15,8 @@ DomainType="A"
 # The server address of ALi API
 ALiServerAddr="alidns.aliyuncs.com"
 # A url provided by a third-party to echo the public IP of host
-MyIPEchoUrl="http://members.3322.org/dyndns/getip"
-# MyIPEchoUrl="http://icanhazip.com"
+MyIPEchoUrl="https://api6.ipify.org"
+# MyIPEchoUrl="http://members.3322.org/dyndns/getip"
 
 # the generatation a random number can be modified here
 #((rand_num=${RANDOM} * ${RANDOM} * ${RANDOM}))
